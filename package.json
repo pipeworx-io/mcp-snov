@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-snov",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Snov.io MCP — B2B email finder + contact enrichment + domain search (snov.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-f9c95df5693efb36d82bdfc5a5a68a3d953af5a3e04b7bca0adadb50d6ccfa77",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
