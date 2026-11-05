@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-snov",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Snov.io MCP — B2B email finder + contact enrichment + domain search (snov.io)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "snov",
     "gatewaySlug": "snov",
-    "sourceHash": "v1-55cc528cebd341bf36f2cfeb453d59fb4ef127f5d3938af95a60e27fa4c5a518",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-b8dc91011f49628870f853722714832851958c6d01f6a5245dd75ecdb957e8cb",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
